@@ -15,7 +15,7 @@ A parser takes input in the form of a sequence of program instructions and tends
 ## Getting Started
 To use the Resume Parser, you will need to download the code from this GitHub repository and install the required dependencies.
 
-Once you have installed the dependencies, you can run the program by executing the "resume_parser.py" file. This will launch the program, and you can begin parsing resumes.
+Once you have installed the dependencies, you can run the program by executing the "resumeParser.ipynb" file. This will launch the program, and you can begin parsing resumes.
 
 ## How to Use
 To use the Resume Parser, you will need to provide it with one or more resumes in PDF format. The program will extract key information from the resume and store it in a CSV file.
