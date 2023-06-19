@@ -21,14 +21,14 @@ Once you have installed the dependencies, you can run the program by executing t
 To use the Resume Parser, you will need to provide it with one or more resumes in PDF format. The program will extract key information from the resume and store it in a CSV file.
 
 ## Requirements
-Python 3.6 or higher
-Pip package manager
-Required python packages:
-PyPDF2
-python-docx
-textract
-pandas
-spacy
-Usage
+  Python 3.6 or higher
+  Pip package manager
+  Required python packages:
+  PyPDF2
+  python-docx
+  textract
+  pandas
+  spacy
+  Usage
 
 Please make sure to update tests as appropriate.
