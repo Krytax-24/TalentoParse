@@ -13,7 +13,7 @@ It is a component that automatically segregates the information into various fie
 A parser takes input in the form of a sequence of program instructions and tends to build a data structure, a "parse tree," or an abstract syntax tree.
 
 ## Getting Started
-To use the Resume Parser, you will need to download the code from our GitHub repository and install the required dependencies. We have included a requirements.txt file that lists all the necessary libraries.
+To use the Resume Parser, you will need to download the code from this GitHub repository and install the required dependencies.
 
 Once you have installed the dependencies, you can run the program by executing the "resume_parser.py" file. This will launch the program, and you can begin parsing resumes.
 
